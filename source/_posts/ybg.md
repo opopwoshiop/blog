@@ -1,6 +1,6 @@
 ---
 title: ybg
-date: 2023-08-07 22:39:37
+date: 2023-08-07 22:58:54
 tags:
 ---
-![](\ybg\sb.png)
+![](/ybg/kkk.png)
